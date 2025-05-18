@@ -12,7 +12,7 @@ This is a Flask-based web app that detects whether a given URL is a phishing web
 First, clone the project to your local machine:
 
 ```bash
-git clone <IDHAR TUM URL DALNA JB TUM GITHUB PE PROJECT UPLOAD KAROGE>
+git clone <(https://github.com/Sanikaware/Phishing-Website.git)>
 cd backend
 ```
 
