@@ -12,7 +12,7 @@ GIT LINK : https://github.com/Sanikaware/Phishing-Website.git
 First, clone the project to your local machine:
 
 ```bash
-git clone <(https://github.com/Sanikaware/Phishing-Website.git)>
+git clone <gh repo clone Sanikaware/Phishing-Website>
 cd backend
 ```
 
